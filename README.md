@@ -3,7 +3,10 @@
 You can support this project by purchasing Pumpkin Spice Token (🎃PSL), They are not used in the project but they do buy me coffee.
 http://tokenmint.io/#/ico/0xd3492661ff32e1be61f087f5a7901ecb5d5cbfc4
 
-Smart contract controlled IOT Flame shooting pumpkin
+
+# Smart contract controlled IOT Flame shooting pumpkin
+
+![How it Works](https://github.com/realcodywburns/flameOn/blob/master/fire.png)
 
 Requirements:
 
