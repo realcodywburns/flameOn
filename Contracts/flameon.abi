@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"x","type":"uint8"}],"name":"blast","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"data","type":"uint8"}],"name":"Fire","type":"event"}]
