@@ -1,2 +1,3 @@
-# flameOn
+# STOP! THIS PROJECT POSES EXTREAME RISK OF INJURY, FIRE, DEATH, AND PROPERTY LOSS. DO NOT ATTEMT TO BUILD THIS
+
 Smart contract controlled IOT Flame shooting pumpkin
