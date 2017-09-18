@@ -11,7 +11,7 @@ http://tokenmint.io/#/ico/0xd3492661ff32e1be61f087f5a7901ecb5d5cbfc4
 ### Abstract:
 This project is a demonstration of using a blockchain layer to host IoT applications for real world deployment.This code can be modified to interact with any device capable of reaching the internet.
 
-![Workflow](https://github.com/realcodywburns/flameOn/blob/master/pumpkinblocks.png)
+![Workflow](https://github.com/realcodywburns/flameOn/blob/master/pumpkinblocks2.png)
 
 ### Overview
 
